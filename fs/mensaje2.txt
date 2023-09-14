@@ -1,0 +1,5 @@
+Crear cuatro variables y asignar a cada una las siguientes cadenas de texto:
+i. Graduados de HTML5: “30 45 25 34 18 23 16 50 72 70”
+ii. Graduados de CSS3: “50 45 71 34 23 45 65 75 63 43 74 70”
+iii. Graduados de JAVASCRIPT: “70 65 58 45 23 57 34 17 72”
+iv. Graduados de NODEJS: “45 56 73 34 65 72 70 32”
